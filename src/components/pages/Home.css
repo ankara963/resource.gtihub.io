@@ -1,0 +1,43 @@
+
+
+.grid{
+    display: flex;
+    grid-template-columns: repeat(2,1fr);
+}
+
+img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.colimg1{
+    float: right;
+}
+
+h2{
+    color: rgb(0, 126, 245);
+    
+}
+
+h3{
+    font-weight: lighter;
+}
+
+.rr{
+    text-align: left;
+}
+
+.rrr{
+    text-align: right;
+}
+
+.rrrr{
+    text-align: center;
+}
+
+@media only screen and (max-width: 500px){
+    h3{
+        font-size: 17px;
+    }
+
+}

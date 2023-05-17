@@ -1,0 +1,15 @@
+.usrbtn{
+    border: none;
+    background-color: rgba(255, 0, 0, 0.973);
+    font-family: inherit;
+    border-radius: 15px;
+    height: 40px;
+    width: 100px;
+    color: white;
+    box-shadow: 1px 4px 10px black;
+}
+
+.usrbtn:hover{
+    background-color: aliceblue;
+    color: red;
+}

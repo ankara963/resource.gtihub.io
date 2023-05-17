@@ -1,0 +1,39 @@
+/* div {
+  border: 1px solid black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+} */
+
+.cardsCont {
+  width: 100vw;
+  height: auto;
+  position: absolute;
+  top: 600px;
+}
+
+.cardsContainer {
+  width: 100vw;
+  height: auto;
+}
+
+.cardsWrapper {
+  width: 100vw;
+  height: auto;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardsItems {
+  width: 100vw;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.cardsDesign {
+}

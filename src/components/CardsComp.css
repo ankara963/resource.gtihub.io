@@ -1,0 +1,28 @@
+.searchDiv {
+  display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #00000059;
+  flex-direction: column;
+}
+
+.searchResult {
+  width: 40vw;
+  height: auto;
+  border: 1px solid #fff;
+}
+
+.searchLi {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}

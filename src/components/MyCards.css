@@ -1,0 +1,53 @@
+.MyCards-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 200px;
+  z-index: 99;
+  margin-top: 0px;
+}
+
+.row-cont {
+  width: 90vw;
+  z-index: 99;
+}
+
+.cardName:hover {
+  background-color: rgb(61, 205, 231);
+}
+
+.cardLink {
+  text-decoration: none;
+  color: #000;
+}
+
+.destination-cont {
+  background-color: blanchedalmond;
+}
+
+.myText {
+  font-size: 1.5rem;
+}
+
+.body-main-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-head {
+  margin-top: 10px;
+}
+
+.body-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 80vw;
+}
+
+@media only screen and (min-width: 980px) {
+}

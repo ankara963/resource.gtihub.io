@@ -1,0 +1,16 @@
+.destination-section {
+  margin: 2rem 0;
+}
+
+.destination-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+@media (max-width: 768px) {
+  .destination-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+}

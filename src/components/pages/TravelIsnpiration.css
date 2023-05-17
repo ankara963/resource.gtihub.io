@@ -1,0 +1,14 @@
+/* div {
+  outline: 1px solid;
+  max-width: 100%;
+} */
+
+.Ti-body-main-cont {
+}
+
+.Ti-body-cont {
+  display: flex;
+  justify-content: center;
+  padding-left: 25px;
+  padding-right: 25px;
+}
